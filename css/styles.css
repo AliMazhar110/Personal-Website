@@ -89,7 +89,7 @@
     padding: 0;
 }
 #intro .container-fluid{
-    background: url("/images/home.png") no-repeat center bottom;
+    background: url("../images/home.png") no-repeat center bottom;
     background-size: cover;
     position: relative;
     height: 100vh;
